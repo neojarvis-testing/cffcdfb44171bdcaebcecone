@@ -1,4 +1,5 @@
 public class Demo{
     System.out.println("Welcome");
-    Test2
+    System.out.println("Test2");
+    
 }
